@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm John 👋
 
 I'm an entrepreneur and coding enthusiast. Coding is my hobby, and I enjoy building small projects in my spare time.
 
